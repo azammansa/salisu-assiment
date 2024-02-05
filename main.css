@@ -1,0 +1,11 @@
+body {
+    background-color: #000; /* Set background color to black */
+    color: #fff; /* Set text color to white or any contrasting color */
+    font-family: Arial, sans-serif; /* Choose a font style */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff; /* Set heading color */
+}
